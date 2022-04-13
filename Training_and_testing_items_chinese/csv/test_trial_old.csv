@@ -1,0 +1,25 @@
+,image_name,number_target,word_target,number_foild,word_foil
+0,0.png 1.png,206,er bai liu,260,er bai liu shi
+1,2.png 3.png,100,yi bai,1000,yi qian
+2,4.png 5.png,67,liu shi qi,670,liu bai qi shi
+3,6.png 7.png,1002,yi qian er,1020,yi qian er shi
+4,8.png 9.png,21,er shi yi,201,er bai yi
+5,10.png 11.png,105,yi bai wu,125,yi bai er shi wu
+6,12.png 13.png,305,san bai wu,350,san bai wu shi
+7,14.png 15.png,42,si shi er,402,si bai er
+8,16.png 17.png,5,wu,15,shi wu
+9,18.png 19.png,11,shi yi,24,er shi si
+10,20.png 21.png,2,er,8,ba
+11,22.png 23.png,25,er shi wu,405,si bai wu
+12,24.png 25.png,62,liu shi er,602,liu bai er
+13,26.png 27.png,21,er shi yi,210,er bai yi shi
+14,28.png 29.png,24,er shi si,204,er bai si
+15,30.png 31.png,17,shi qi,21,er shi yi
+16,32.png 33.png,35,san shi wu,305,san bai wu
+17,34.png 35.png,47,si shi qi,470,si bai qi shi
+18,36.png 37.png,19,shi jiu,109,yi bai jiu
+19,38.png 39.png,16,shi liu,106,yi bai liu
+20,40.png 41.png,53,wu shi san,80,ba shi
+21,42.png 43.png,216,er bai yi shi liu,261,er bai liu shi yi
+22,44.png 45.png,412,si bai yi shi er,421,si bai er shi yi
+23,46.png 47.png,6,liu,13,shi san
